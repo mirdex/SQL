@@ -10,4 +10,4 @@
 - 實務練習
 
 #### 課程大綱
-- [1. 前端網頁基本概念](http://mirdex.github.io/SQL/)
+- [1. MySQL簡介](http://mirdex.github.io/SQL/0.%20MySQL.slides.html)
