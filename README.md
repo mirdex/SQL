@@ -13,3 +13,4 @@
 - [1. MySQL簡介](http://mirdex.github.io/SQL/0.%20MySQL.slides.html)
 - [2. 關聯式資料庫的規劃](http://mirdex.github.io/SQL/0-1%20關聯式資料庫的規劃.slides.html)
 - [3. 基礎SQL查詢](http://mirdex.github.io/SQL/1.%20基礎SQL查詢_Q.slides.html)
+- [4. 子查詢](http://mirdex.github.io/SQL/3.%20進階查詢技巧_1_Q.slides.html)
